@@ -1,5 +1,9 @@
 # SwingSet2
 
+ original Splash: | Splash:
+------------ | -------------
+[SplashEpisode2](https://raw.githubusercontent.com/homebeaver/SwingSet2-demos/master/src/main/resources/swingset/images/SplashEpisode2.jpg) | [splash.png](https://raw.githubusercontent.com/homebeaver/SwingSet2-demos/master/src/main/resources/swingset/images/splash.png)
+
 # SwingSet3
 
 The last [SwingLabs](https://en.wikipedia.org/wiki/SwingLabs) jar I found was version 1.6.5-1 dated Feb 27 2013
