@@ -2,7 +2,7 @@
 
  original Splash: | Splash:
 ------------ | -------------
-[SplashEpisode2](https://raw.githubusercontent.com/homebeaver/SwingSet2-demos/master/src/main/resources/swingset/images/SplashEpisode2.jpg) | [splash.png](https://raw.githubusercontent.com/homebeaver/SwingSet2-demos/master/src/main/resources/swingset/images/splash.png)
+![SplashEpisode2](https://raw.githubusercontent.com/homebeaver/SwingSet2-demos/master/src/main/resources/swingset/images/SplashEpisode2.jpg) | ![splash.png](https://raw.githubusercontent.com/homebeaver/SwingSet2-demos/master/src/main/resources/swingset/images/splash.png)
 
 # SwingSet3
 
